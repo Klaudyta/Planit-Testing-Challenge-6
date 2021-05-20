@@ -1,0 +1,12 @@
+George Clooney,1961,05,06,United States
+Will Smith,1968,09,25,United States
+Dalai Lama,1935,07,06,China
+Albert Einstein,1879,03,14,Germany
+Mother Teresa,1910,08,26,North Macedonia
+Madonna Ciccone,1983,10,09,United States
+Diego Maradona,1960,10,30,Argentina
+Whitney Houston,1989,07,26,United States
+George Bush,1946,07,06,United States
+Will Clinton,1946,08,19,United States
+George Clooney,1987,03,07,Australia
+Mother Teresa,2020,03,08,Australia
